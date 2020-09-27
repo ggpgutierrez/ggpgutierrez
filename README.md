@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ggpgutierrez" alt="ggpgutierrez" /> </p>
 
-- 💬 Ask me about **Java, JS, Salesforce Developer, Salesforce Marketing Cloud, Datorama**
+- 💬 Ask me about **Java, JS, Salesforce Developer, Salesforce Marketing Cloud, Datorama And Alexa Skills**
 
 - 📫 How to reach me **gabriel.gutierrezhp@gmail.com**
 
